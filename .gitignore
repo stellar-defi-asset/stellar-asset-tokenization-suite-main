@@ -1,0 +1,16 @@
+/target/
+**/target/
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+
+# Local PR descriptions
+PR_ISSUE_15.md
+PR_ISSUE_19.md
+PR_ISSUE_20.md
+PR_ISSUE_21.md
+AGENTS.md
